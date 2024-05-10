@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rava</h1>
-<h3 align="center">I'm still in high school, my dream is to become a front end dev</h3>
+<h3 align="center">I'm still in high school</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
